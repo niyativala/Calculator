@@ -15,23 +15,23 @@ This project performs basic arithmetic operations with a clean and user-friendly
 - CSS (Grid + Styling)
 - JavaScript (DOM Manipulation)
 
-## 📸 Preview
-Simple and user-friendly calculator interface.
+---
 
-## 📂 Project Files
+## 📂 Project Structure
 
-* `index.html` → Calculator structure
-* `style.css` → UI styling and layout
-* `script.js` → Calculator functionality and operations
+index.html → Calculator UI structure  
+style.css → Styling and layout  
+script.js → Calculator logic and functionality  
 
 ---
 
-## 🎯 How It Works
+## ⚙️ How It Works
 
-1. Click on number buttons
-2. Select arithmetic operator
-3. Press `=` to calculate result
-4. Use `C` or `AC` to clear display
+1. Click on number buttons  
+2. Select an arithmetic operator  
+3. Enter the next number  
+4. Press `=` to calculate the result  
+5. Use `C` or `AC` to clear the display  
 
 ---
 
@@ -43,19 +43,39 @@ Simple and user-friendly calculator interface.
 
 ---
 
-## 📌 Future Improvements
+### 📊 Project Logic (Simple)
 
-* Add keyboard support ⌨️
-* Add scientific calculator functions 🔬
-* Add calculation history 📜
-* Improve UI animations ✨
-* Add dark/light mode 🌙
+* User inputs numbers using buttons  
+* JavaScript stores the entered values  
+* Selected operator performs calculation  
+* Result is displayed instantly on screen  
 
 ---
 
-## 🎯 How to Use
-1. Clone the repository
-2. Open `index.html` in browser
+## 📌 Future Improvements
 
-## 📌 Author
-Niyati Vala
+- ⌨️ Add keyboard support  
+- 🌙 Add dark/light mode  
+- 📜 Add calculation history  
+- 🔬 Add scientific calculator functions  
+- ✨ Improve UI animations 
+
+---
+
+---
+
+## 👩‍💻 Author
+
+**Niyati Vala**  
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+## ⭐ Note
+
+This is a beginner-level project created for learning JavaScript basics.
